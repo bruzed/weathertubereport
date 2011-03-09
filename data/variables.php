@@ -1,0 +1,4 @@
+<?php
+	$buffer;
+	$filename;
+?>
